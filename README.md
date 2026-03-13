@@ -32,36 +32,36 @@ A Java-based desktop application for managing WiFi users, internet packages, new
 - File Handling
 
 ## Login Page
-![Login](<img width="814" height="409" alt="Screenshot 2026-03-13 233117" src="https://github.com/user-attachments/assets/041f32e0-3c7e-48fc-80aa-80610d5d7ae4" />
-)
+<img width="814" height="409" alt="Screenshot 2026-03-13 233117" src="https://github.com/user-attachments/assets/041f32e0-3c7e-48fc-80aa-80610d5d7ae4" />
+
 
 ## Registration Page
-![Registration](<img width="738" height="441" alt="Screenshot 2026-03-13 233132" src="https://github.com/user-attachments/assets/2c34e435-e8a5-49c3-bca4-3a8539db0eed" />
-)
+<img width="738" height="441" alt="Screenshot 2026-03-13 233132" src="https://github.com/user-attachments/assets/2c34e435-e8a5-49c3-bca4-3a8539db0eed" />
+
 
 ## Admin Dashboard
-![Admin Dashboard](<img width="441" height="438" alt="Screenshot 2026-03-13 234326" src="https://github.com/user-attachments/assets/13c17b44-70cc-4ae2-9dcf-6bff8673cb60" />
-)
+<img width="441" height="438" alt="Screenshot 2026-03-13 234326" src="https://github.com/user-attachments/assets/13c17b44-70cc-4ae2-9dcf-6bff8673cb60" />
+
 
 ## Manage Users
-![Manage Users](<img width="804" height="442" alt="Screenshot 2026-03-13 234343" src="https://github.com/user-attachments/assets/2baa32b0-60f5-4368-a17c-b9d61591f023" />
-)
+<img width="804" height="442" alt="Screenshot 2026-03-13 234343" src="https://github.com/user-attachments/assets/2baa32b0-60f5-4368-a17c-b9d61591f023" />
+
 
 ## Manage Packages
-![Manage Packages](<img width="811" height="441" alt="Screenshot 2026-03-13 234454" src="https://github.com/user-attachments/assets/dae97be0-0556-4101-92b9-696d91d1afda" />
-)
+<img width="811" height="441" alt="Screenshot 2026-03-13 234454" src="https://github.com/user-attachments/assets/dae97be0-0556-4101-92b9-696d91d1afda" />
+
 
 ## User Dashboard
-![User Dashboard](<img width="740" height="448" alt="Screenshot 2026-03-13 233252" src="https://github.com/user-attachments/assets/bf7b5c56-818b-4355-a788-e1a7f7d0238e" />
-)
+<img width="740" height="448" alt="Screenshot 2026-03-13 233252" src="https://github.com/user-attachments/assets/bf7b5c56-818b-4355-a788-e1a7f7d0238e" />
+
 
 ## Payment Page
-![Payment](<img width="663" height="368" alt="Screenshot 2026-03-13 233340" src="https://github.com/user-attachments/assets/c669aee1-6b16-42e8-81e4-4292c05a2b76" />
-)
+<img width="663" height="368" alt="Screenshot 2026-03-13 233340" src="https://github.com/user-attachments/assets/c669aee1-6b16-42e8-81e4-4292c05a2b76" />
+
 
 ## Contact Us
-![Contact Us](<img width="516" height="548" alt="Screenshot 2026-03-13 233426" src="https://github.com/user-attachments/assets/6da67ee6-65b1-4fc2-9737-ceac1b9272e6" />
-)
+<img width="516" height="548" alt="Screenshot 2026-03-13 233426" src="https://github.com/user-attachments/assets/6da67ee6-65b1-4fc2-9737-ceac1b9272e6" />
+
 
 ## Default Admin Login
 
