@@ -1,99 +1,149 @@
 # WiFi Management System
 
-The WiFi Management System is a Java-based desktop application designed to manage internet users, service packages, and connection information in a small Internet Service Provider (ISP) environment.
+A Java-based desktop application for managing WiFi users, internet packages, new connections, and payment operations. This project was developed as an academic project to demonstrate Object-Oriented Programming, Java Swing GUI design, and file-based data management.
 
-This project was developed as an academic software project to demonstrate Object-Oriented Programming concepts and management system design using Java.
-
----
-
-## Project Features
-
-### User Module
-- User Registration
-- User Login
-- User Dashboard
-- View connection information
+## Features
 
 ### Admin Module
-- Admin Panel
+- Admin login
+- Manage users
 - Add new users
-- Manage existing users
-- Add Internet packages
+- Delete users
+- Update user information
 - Manage packages
-- Create new connections
-- Handle user payments
+- Add packages
+- Delete packages
+- Update packages
 
-### Additional Features
-- Contact support page
-- Package management system
-- User information management
-
----
+### User Module
+- User registration
+- User login
+- User dashboard
+- Show profile
+- New connection request
+- Disconnect connection
+- Make payment
+- Contact support
 
 ## Technologies Used
-
 - Java
-- Java Swing (GUI)
-- Object-Oriented Programming
-- File/Data handling
+- Java Swing
+- Object-Oriented Programming (OOP)
+- File Handling
+
+## Default Admin Login
+
+- **User ID:** admin
+- **Password:** admin123
+
+## How to Run
+
+1. Clone the repository:
+   ```bash  
+   git clone https://github.com/Argho-Dey/Wifi-Management-System.git
+
+
+   Open the project in any Java IDE:
+
+IntelliJ IDEA
+Eclipse
+NetBeans
 
 ---
 
-## Project Structure
-FinalJavaProject
-│
-├── Classes
-│ ├── Login.java
-│ ├── Registration.java
-│ ├── AdminPanel.java
-│ ├── AddUser.java
-│ ├── ManageUsers.java
-│ ├── AddPackage.java
-│ ├── ManagePackages.java
-│ ├── NewConnection.java
-│ ├── Payment.java
-│ ├── UserDashboard.java
-│ ├── ContactUs.java
-│ ├── User.java
-│ └── Package.java
+Run the project from:
+
+-Login.java
+
+-Registration Page
+
+-Admin Dashboard
+
+-Manage Users
+
+-Manage Packages
+
+-User Dashboard
+
+-New Connection
+
+-Payment Page
+
+-Contact Us
+
+---
+
+Project Structure
+FinalJavaProject/
+├── Classes/
+│   ├── Login.java
+│   ├── Registration.java
+│   ├── AdminPanel.java
+│   ├── ManageUsers.java
+│   ├── ManagePackages.java
+│   ├── AddUser.java
+│   ├── AddPackage.java
+│   ├── UserDashboard.java
+│   ├── NewConnection.java
+│   ├── Payment.java
+│   └── ContactUs.java
+├── Data/
+├── Images/
+└── README.md
+
+---
+
+##Limitations
+
+-Uses file-based storage instead of a database
+
+-Contains hardcoded file paths in some parts
+
+-Desktop-only application
+
+-Basic authentication system
+
+---
+
+##Future Improvements
+
+-Replace file handling with MySQL database
+
+-Improve UI/UX design
+
+-Add password encryption
+
+-Make file paths relative
+
+-Add role-based security
+
+-Convert into a web-based system
+
+---
+
+##Author
+
+-Argho Dey
+
+-Computer Science & Engineering
+
+-American International University–Bangladesh (AIUB)
 
 
 ---
 
-## How to Run the Project
 
-1. Download or clone the repository
-git clone https://github.com/Argho-Dey/Wifi-Management-System.git
+Set this:
 
+**Description**  
+`Java-based WiFi Management System with admin and user modules, package management, connection handling, and payment features.`
 
-2. Open the project using any Java IDE
-
-Recommended IDE:
-- IntelliJ IDEA
-- NetBeans
-- Eclipse
-
-3. 
----
-
-## Future Improvements
-
-- Database integration (MySQL)
-- Role-based authentication
-- Better UI/UX design
-- Online payment integration
-- Web-based version of the system
-
----
-
-## Author
-
-**Argho Dey**  
-Computer Science & Engineering  
-American International University–Bangladesh (AIUB)
-
----
-
-## Project Type
-
-Academic Java Desktop Application
+**Topics**
+```text
+java
+java-swing
+wifi-management-system
+management-system
+oop
+desktop-application
+student-project
